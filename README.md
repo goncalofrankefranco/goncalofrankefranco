@@ -1,5 +1,5 @@
 # 💫 About Me
-## Heya! 👋<br><br>I'm Gonçalo, a beginner dev and designer from Brazil.<br><br>I'm currently working on two tech startups, Eu Tenho! and Ajuda Aqui!. <br><br>Although I stopped making Roblox games, I plan to come back soon.<br><br>APIs are my biggest enemy as of now...<br>
+## Heya! 👋<br><br>I'm Gonçalo, a beginner dev and designer from Brazil.<br><br>I'm currently working on two startups, Eu Tenho! (https://eutenho.app) and Ajuda Aqui!. <br><br>APIs are my biggest enemy as of now...<br>
 
 # 💻 Tech Stack:
 ## 👨‍💻 Experienced
