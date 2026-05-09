@@ -1,5 +1,5 @@
 # 💫 About Me
-## Heya! 👋<br><br>I'm Gonçalo, a beginner dev and designer from Brazil.<br><br>I'm currently working on two startups, Eu Tenho! (https://eutenho.app) and Ajuda Aqui!. <br><br>APIs are my biggest enemy as of now...<br>
+## Heya! 👋<br><br>I'm Gonçalo, a beginner dev from Brazil.<br><br>I'm currently working on two startups, Eu Tenho! (https://eutenho.app) and Bactus (https://bactus.base44.app)!
 
 # 💻 Tech Stack:
 ## 👨‍💻 Experienced
