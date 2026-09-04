@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI & Software Engineer
 ----------------------
 
-I'm a 15yo developer, bronze medalist at the International Olympiad of Artificial Intelligence, IOAI, 2026. Currently, I work as tech staff at the Youth International Math Olympiad, YIMO, and at my digital agency, Bactus, while also being a medalist in multiple national olympiads in Math and Informatics.
+I'm a 15yo developer, bronze medalist at the International Olympiad of Artificial Intelligence, IOAI, 2026. Currently, I work as tech director at the Youth International Math Olympiad, YIMO, and at my digital agency, Bactus, while also being a medalist in multiple national olympiads in Math and Informatics.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Bactus](http://bactus.dev)
